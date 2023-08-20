@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello, World!');
+var num1=3,num2=8;
+var sum=num1+num2;
+console.log("num1+num2 = "+(num1+num2) + " OR ")
+
+console.log("sum = "+sum)
+
+console.log("\"End of sum \"")
 
 /*  
 Next, PLAY! 
